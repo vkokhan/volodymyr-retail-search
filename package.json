@@ -11,7 +11,7 @@
     "prisma:push": "yarn prisma db push --schema prisma/schema.prisma"
   },
   "dependencies": {
-    "@next/font": "^13.1.6",
+    "@next/font": "13.1.6",
     "@prisma/client": "^4.14.0",
     "@stitches/react": "^1.2.8",
     "@tanstack/react-query": "^4.24.9",
